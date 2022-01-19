@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="skin.xenon2" version="420.7.0.9" name="Xenon 2" provider-name="SiLVO">
+<addon id="skin.vision" version="422.1.1.8" name="VISION" provider-name="TVISIA">
 	<requires>
 		<import addon="xbmc.gui" version="5.14.0" />
 		<import addon="script.skinshortcuts" version="1.0.10" />
@@ -11,11 +11,11 @@
 		<res width="1920" height="1080" aspect="16:9" default="true" folder="16x9" />
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en_GB">Xenon 2-Good for all devices</summary>
-		<summary lang="en_US">Xenon 2-Good for all devices</summary>
-		<description lang="en_US">Xenon 2-Good for all devices</description>
+		<summary lang="de_DE">A minimal KODI Skin</summary>
+		<summary lang="en_US">A minimal KODI Skin</summary>
+		<description lang="en_US"></description>
 		<platform>all</platform>
-		<license>CC BY-NC-SA 4.0</license>
+		<license></license>
 		<assets>
 			<icon>resources/icon.png</icon>
 			<fanart>resources/fanart.jpg</fanart>
