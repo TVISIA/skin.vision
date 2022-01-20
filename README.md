@@ -1,12 +1,11 @@
-# Vision 5: TVISIA
+# Vision 5: VISION
 A lightweight KODI Skin. 
-(http://forum.kodi.tv/showthread.php?tid=183504)
+(http://visia.ml/box)
 
 **optimiert für:**
  - **leia:** Kodi v18 Codename Leia
  - **krypton:** Kodi v17 Codename Krypton
  
 
-*(http://forum.kodi.tv/showthread.php?tid=210069)*
 
 **TVISIA.GA**
