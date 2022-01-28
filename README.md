@@ -5,7 +5,7 @@ A lightweight KODI Skin.
 **optimiert für:**
  - **leia:** Kodi v18 Codename Leia
  - **krypton:** Kodi v17 Codename Krypton
- 
 
 
-**TVISIA.GA**
+
+**VISIA.ML**
